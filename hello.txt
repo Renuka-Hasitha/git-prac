@@ -5,3 +5,4 @@ Me editing the text file now to check commits.
 One more line to integrate both staging i.e git add and commiting i.e git commit -m "msg" in a single line like:
 git commit -a -m "Your message"
 hfdjdk
+jghfjbj
