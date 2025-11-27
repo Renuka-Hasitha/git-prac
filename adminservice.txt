@@ -1,1 +1,1 @@
-the admin will add or remove the users
+The admin can add or remove the users
