@@ -1,1 +1,1 @@
-The admin can add or remove the users and collect them in a tabular format.
+The admin can add 
