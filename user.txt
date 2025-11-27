@@ -1,0 +1,1 @@
+This is user file where all the user queries are taken into.
